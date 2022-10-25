@@ -1,1 +1,17 @@
+body{
+  background:darkred;  
+}
 
+form label{ 
+  display: block;
+  font-size: 25px;
+  color: white
+
+}
+form input{
+  display:block
+    background:white
+    color:black
+    font-weight:bold
+
+}
